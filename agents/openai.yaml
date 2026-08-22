@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT Image 2 建筑图解"
+  short_description: "用 GPT Image 2 生成证据受控的非效果图建筑表达"
+  default_prompt: "使用 $gpt-image-2-architectural-diagrams 为这项非效果图建筑表达建立证据边界，输出中英双语提示词，并按 GPT Image 2 流程生成和审核。"
